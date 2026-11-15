@@ -1,7 +1,7 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
         
-         int even = 1;
+    int even = 1;
     int odd = 0;
     int sum = 0;
     int count = 0;
