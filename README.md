@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0724-find-pivot-index) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
