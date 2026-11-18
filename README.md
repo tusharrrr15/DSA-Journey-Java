@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
