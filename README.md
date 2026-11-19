@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0724-find-pivot-index) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0015-3sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
