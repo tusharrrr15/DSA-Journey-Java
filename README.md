@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0724-find-pivot-index) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0015-3sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Prefix Sum
 |  |
 | ------- |
