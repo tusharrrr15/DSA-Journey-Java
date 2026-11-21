@@ -1,85 +1,61 @@
-
 class Solution {
     public int[] findSubtreeSizes(int[] parent, String s) {
         int n = parent.length;
 
-        // Build the original tree
-        List<Integer>[] tree = new ArrayList[n];
-
-        for (int i = 0; i < n; i++) {
-            tree[i] = new ArrayList<>();
-        }
-
+        // Build children lists using arrays
+        int[] head = new int[n];
+        int[] next = new int[n];
+        java.util.Arrays.fill(head, -1);
         for (int i = 1; i < n; i++) {
-            tree[parent[i]].add(i);
+            next[i] = head[parent[i]];
+            head[parent[i]] = i;
         }
 
-        // Store the nearest ancestor for each character
-        int[] nearest = new int[26];
-        Arrays.fill(nearest, -1);
+        int[] newParent = new int[n];
+        newParent[0] = -1;
+        int[] order = new int[n];      // pre-order visit sequence
+        int cnt = 0;
 
-        // Construct the modified tree
-        List<Integer>[] newTree = new ArrayList[n];
+        int[] last = new int[26];
+        java.util.Arrays.fill(last, -1);
 
-        for (int i = 0; i < n; i++) {
-            newTree[i] = new ArrayList<>();
-        }
+        int[] stack = new int[n];
+        int[] it = new int[n];         // iterator pointer per node
+        int[] saved = new int[n];      // previous last[c] to restore on exit
+        int sp = 0;
 
-        buildTree(0, tree, newTree, s, nearest);
+        // enter root
+        int rc = s.charAt(0) - 'a';
+        saved[0] = last[rc];
+        last[rc] = 0;
+        order[cnt++] = 0;
+        stack[sp++] = 0;
+        it[0] = head[0];
 
-        // Calculate subtree sizes
-        int[] answer = new int[n];
-        calculateSize(0, newTree, answer);
-
-        return answer;
-    }
-
-    private void buildTree(int node,
-                           List<Integer>[] tree,
-                           List<Integer>[] newTree,
-                           String s,
-                           int[] nearest) {
-
-        int ch = s.charAt(node) - 'a';
-
-        // Save previous nearest ancestor
-        int previous = nearest[ch];
-
-        // Update nearest ancestor
-        nearest[ch] = node;
-
-        for (int child : tree[node]) {
-
-            int childChar = s.charAt(child) - 'a';
-
-            // Find closest ancestor with same character
-            int newParent = nearest[childChar];
-
-            if (newParent == -1) {
-                newParent = node;
+        while (sp > 0) {
+            int u = stack[sp - 1];
+            int v = it[u];
+            if (v != -1) {
+                it[u] = next[v];
+                int c = s.charAt(v) - 'a';
+                newParent[v] = last[c] != -1 ? last[c] : parent[v];
+                saved[v] = last[c];
+                last[c] = v;
+                order[cnt++] = v;
+                it[v] = head[v];
+                stack[sp++] = v;
+            } else {
+                last[s.charAt(u) - 'a'] = saved[u];
+                sp--;
             }
-
-            newTree[newParent].add(child);
-
-            buildTree(child, tree, newTree, s, nearest);
         }
 
-        // Backtrack to restore previous ancestor
-        nearest[ch] = previous;
-    }
-
-    private int calculateSize(int node,
-                              List<Integer>[] tree,
-                              int[] answer) {
-
-        int size = 1;
-
-        for (int child : tree[node]) {
-            size += calculateSize(child, tree, answer);
+        int[] ans = new int[n];
+        java.util.Arrays.fill(ans, 1);
+        for (int i = n - 1; i > 0; i--) {
+            int x = order[i];
+            ans[newParent[x]] += ans[x];
         }
-
-        answer[node] = size;
-
-        return size;
+        return ans;
     }
 }
