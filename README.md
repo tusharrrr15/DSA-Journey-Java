@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3331-find-subtree-sizes-after-changes) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
