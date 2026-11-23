@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
