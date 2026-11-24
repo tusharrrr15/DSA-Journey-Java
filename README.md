@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0724-find-pivot-index) |
 | [1352-product-of-the-last-k-numbers](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
