@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0704-binary-search) |
 | [3934-smallest-unique-subarray](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3934-smallest-unique-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0069-sqrtx) |
 | [1352-product-of-the-last-k-numbers](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/3934-smallest-unique-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tusharrrr15/DSA-Journey-Java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
